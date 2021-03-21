@@ -1,4 +1,4 @@
-![portada](/assets/english_devs.png)
+![portada](/assets/cover-english.png)
 [Index |](/readme.md) [Previous](/files/pin.md)
 
 <h1 align= "center">

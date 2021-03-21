@@ -1,7 +1,7 @@
-![portada](assets/english_devs.png)
+![portada](assets/cover-english.png)
 
 <h1 align= "center">
-English for Devs
+    Interview
 </h1>
 
 ## Table of content

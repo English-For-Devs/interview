@@ -1,4 +1,4 @@
-![portada](/assets/english_devs.png)
+![portada](/assets/cover-english.png)
 
 [Index |](/readme.md) [Previous |](/files/interview_qa.md) [Next](/files/pins.md)
 
