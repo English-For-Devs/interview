@@ -249,8 +249,7 @@ Asking the interviewer questions shows that you’ve done research about the com
 So, when the interview is over, what do you do? Breathe, send a follow-up email a couple of days later, and have a glass of wine. Take some time to reflect on the positive and negative moments of the interview, and see how you can improve for the next one.
 
 
-*This is a little extract from this article [*10 tough interview questions and how to answer them in english*](https://www.inenglishwithlove.com/blog/how-to-answer-interview-questions-in-english?rq=interview).
-Thanks to :sparkles:**In English With Love**:sparkles:, here you can find more to keep learnig.
+**Thanks to :sparkles:**In English With Love**:sparkles: [here](https://www.inenglishwithlove.com/blog/how-to-answer-interview-questions-in-english?rq=interview) you can find more to keep learnig.*
 
 ---
 

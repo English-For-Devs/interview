@@ -124,10 +124,8 @@ Before the interview, you can use sites like PayScale or Glassdoor to do some re
 >*“In my previous job I made _________, but, based on my industry research and the value I can add in this position, I believe I should be paid in the range of _________ to __________.”*
 
 
-
-
-*This is a little extract from this article [*10 tough interview questions and how to answer them in english*](https://www.inenglishwithlove.com/blog/how-to-answer-interview-questions-in-english?rq=interview). 
-Thanks to :sparkles:**In English With Love**:sparkles:, here you can find more to keep learnig.
+ 
+**Thanks to :sparkles:**In English With Love**:sparkles: [here](https://www.inenglishwithlove.com/blog/how-to-answer-interview-questions-in-english?rq=interview) you can find more to keep learnig.*
 
 --- 
 
