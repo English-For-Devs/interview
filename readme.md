@@ -6,11 +6,11 @@ English for Devs
 
 ## Table of content
 
-- [Interview questions and answers](files/interview/interview.md)
-- [Interview details](files/interview/interview_grammar.md)
-- [Pins](files/memo_tips/memo.md)
-- [Resources](files/resources/resources.md)
+- [Interview questions and answers](files/interview_qa.md)
+- [Interview details](files/interview_details.md)
+- [Pins](files/pins.md)
+- [Resources](files/resources.md)
 
 ---
 
-[Index |]() [Next]()
+[Index |]() [Next](files/interview_qa.md)
