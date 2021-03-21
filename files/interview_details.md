@@ -1,6 +1,6 @@
 ![portada](/assets/english_devs.png)
 
-[Index |](/readme.md) [Previous |](../presentation/introduce_yourself.md) [Next](../memo_tips/memo.md)
+[Index |](/readme.md) [Previous |](/files/interview_qa.md) [Next](/files/pins.md)
 
 <h1 align= "center">
     Interview details
@@ -254,4 +254,4 @@ Thanks to :sparkles:**In English With Love**:sparkles:, here you can find more t
 
 ---
 
-[Index |](/readme.md) [Previous |](../interview/interview.md) [Next](../memo_tips/memo.md)
+[Index |](/readme.md) [Previous |](/files/interview_qa.md) [Next](/files/pins.md)
