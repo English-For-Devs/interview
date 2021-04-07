@@ -11,9 +11,9 @@
 - [Helpful phrasal verbs and expressions](#helpful-phrasal-verbs-and-expressions)
 - [Useful expressions in an interview](#useful-expressions-in-an-interview)
 - [What questions should you ask your interviewer?](#what-questions-should-you-ask-your-interviewer)
----
 
-#### :small_orange_diamond: Grammar structures
+---
+#### Grammar structures
 
 Did you notice which grammar structures would be useful in the question *Where do you see yourself in five years?*? 
 
@@ -37,9 +37,8 @@ Did you happen to notice which grammar structures would be useful here in the qu
 
 - You should also review **modal verbs** like might and may for the same purpose.
 
-
-
-#### :small_orange_diamond: Helpful phrasal verbs and expressions
+---
+#### Helpful phrasal verbs and expressions
 
 :diamonds: **FIT IN**
 
@@ -167,7 +166,8 @@ We can’t separate this phrasal verb.
 
 Synonyms: take care of; tend to; be present to
 
-#### :small_orange_diamond: Useful expressions in an interview
+---
+#### Useful expressions in an interview
 
 :diamonds: **TAKE INITIATIVE**
  The ability to take initiative will serve you well if you are interested in leadership or career growth.
@@ -219,7 +219,8 @@ You’ll find this expression useful if you want to talk about why you are looki
 
 >*“She called me and told me that she thinks you’re ready to **make a bigger contribution** at  our board meetings.”*
 
-#### :small_orange_diamond: What questions should you ask your interviewer?
+---
+#### What questions should you ask your interviewer?
 
 Just because the interviewer has asked you all their questions doesn’t mean the interview is over. Here comes the final test: 
 

@@ -13,7 +13,7 @@
 
 
 --- 
-#### :small_orange_diamond: Blog "*In english with love*"
+#### Blog "*In english with love*"
 
 This is a little extract from the article ["*10 tough interview questions and how to answer them in english*"](https://www.inenglishwithlove.com/blog/how-to-answer-interview-questions-in-english?rq=interview).
 
