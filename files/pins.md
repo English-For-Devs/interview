@@ -1,18 +1,18 @@
-![portada](/assets/cover-english.png)
+# :statue_of_liberty: English for developers
+
 [Index |](/readme.md) [Previous |](/files/interview_details.md) [Next](/files/resources.md)
 
-<h1 align= "center">
-    Pins
-</h1>
 
-## Table of content
+## Pins
+
+### :book: Table of content
 
 
 - [Interview tips](#pin)
 
 ---
 
-## Interview tips
+#### :small_orange_diamond: Interview tips
 
 ![image pin self introduction](/assets/interview_tips.png)
 

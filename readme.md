@@ -1,10 +1,10 @@
-![portada](assets/cover-english.png)
+# :statue_of_liberty: English for developers
 
-<h1 align= "center">
-    Interview
-</h1>
 
-## Table of content
+## Interview
+
+
+### :book: Table of content
 
 - [Interview questions and answers](files/interview_qa.md)
 - [Interview details](files/interview_details.md)
