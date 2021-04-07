@@ -1,4 +1,4 @@
-# :statue_of_liberty: English for developers
+# :statue_of_liberty: English for Developers
 
 [Index |](/readme.md) [Next](/files/interview_details.md)
 
