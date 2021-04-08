@@ -12,7 +12,7 @@
 
 ---
 
-#### Interview questions
+### Interview questions
 
 :diamonds: **Tell me about yourself**
 
@@ -64,7 +64,7 @@ This question is tough because it’s not exactly fair, especially considering t
 
 Before the interview, you can use sites like PayScale or Glassdoor to do some research about the average pay for your position, but also consider your value, needs, and  job location. 
 
-#### Answers examples
+### Answers examples
 
 :diamonds: **Tell me about yourself**
 

@@ -12,7 +12,7 @@
 
 ---
 
-#### Interview tips
+### Interview tips
 
 ![image pin self introduction](/assets/interview_tips.png)
 
