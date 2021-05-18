@@ -1,6 +1,6 @@
 # :statue_of_liberty: English for Developers
 
-[Index |](/readme.md) [Previous](/files/pin.md)
+[Index |](/readme.md) [Previous](/files/pins.md)
 
 
 ## Resources
@@ -18,4 +18,4 @@
 This is a little extract from the article ["*10 tough interview questions and how to answer them in english*"](https://www.inenglishwithlove.com/blog/how-to-answer-interview-questions-in-english?rq=interview).
 
 ---
-[Index |](/readme.md) [Previous](/files/pin.md)
+[Index |](/readme.md) [Previous](/files/pins.md)
